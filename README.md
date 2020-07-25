@@ -1,1 +1,2 @@
-# Text-similarity-with-common-words-and-n-grams
+# Text Similarity with Common Words and n-grams
+This was a university assigment.
